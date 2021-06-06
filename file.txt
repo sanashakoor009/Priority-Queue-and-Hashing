@@ -1,0 +1,6 @@
+//File ID, User ID, Priority, Access (read or write)
+7551	10	3	R
+25551	3	10	W
+32451	4	7	R
+12	1	15	R
+
